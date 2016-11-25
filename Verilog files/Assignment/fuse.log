@@ -1,0 +1,35 @@
+Running: C:\Xilinx\14.4\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/mavr0001/Downloads/Final/Final/Assignment/testbench_isim_beh.exe -prj C:/Users/mavr0001/Downloads/Final/Final/Assignment/testbench_beh.prj work.testbench work.glbl 
+ISim P.49d (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/regfile.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/PC.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/MEM_WB_STAGE.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/memory.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/ID_EXEstage.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/EXE_MEM_STAGE.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/control.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/alu.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/5_stage_pineline.v" into library work
+Analyzing Verilog file "C:/Users/mavr0001/Downloads/Final/Final/Assignment/testbench.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC1
+Compiling module memory
+Compiling module control
+Compiling module regfile
+Compiling module ID_EXE_STAGE
+Compiling module alu
+Compiling module EXE_MEM
+Compiling module MEM_WB_stage
+Compiling module pipelined_5stage_
+Compiling module testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 Verilog Units
+Built simulation executable C:/Users/mavr0001/Downloads/Final/Final/Assignment/testbench_isim_beh.exe
+Fuse Memory Usage: 29312 KB
+Fuse CPU Usage: 373 ms

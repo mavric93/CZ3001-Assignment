@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="816" delta="old" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\memory.v" Line 49: System function call <arg fmt="%s" index="1">feof</arg> not supported
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\memory.v" Line 62: System task <arg fmt="%s" index="1">fclose</arg> ignored for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 55: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 56: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 77: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 78: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 99: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 100: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 121: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 122: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 143: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 144: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 165: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 166: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 187: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 188: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 209: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 210: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 231: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 232: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 253: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 275: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 297: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 319: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 341: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:\Users\mavr0001\Downloads\Final\Final\Assignment\control.v" Line 363: Signal &lt;<arg fmt="%s" index="1">oldWaddr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">fileid</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">fileid</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">IM/Mram_memory</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">DM/Mram_memory</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pipe1/imm_out_15</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pipelined_5stage_</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">16 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pipe1/imm_out_16&gt; &lt;pipe1/imm_out_17&gt; &lt;pipe1/imm_out_18&gt; &lt;pipe1/imm_out_19&gt; &lt;pipe1/imm_out_20&gt; &lt;pipe1/imm_out_21&gt; &lt;pipe1/imm_out_22&gt; &lt;pipe1/imm_out_23&gt; &lt;pipe1/imm_out_24&gt; &lt;pipe1/imm_out_25&gt; &lt;pipe1/imm_out_26&gt; &lt;pipe1/imm_out_27&gt; &lt;pipe1/imm_out_28&gt; &lt;pipe1/imm_out_29&gt; &lt;pipe1/imm_out_30&gt; &lt;pipe1/imm_out_31&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Mmult_n00213</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">alu</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pipe1/imm_out_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pipelined_5stage_</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pipe1/ALUop_out_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pipe1/imm_out_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pipelined_5stage_</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pipe1/ALUop_out_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pipe1/imm_out_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pipelined_5stage_</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pipe1/ALUop_out_2&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2254" delta="old" >Area constraint could not be met for block &lt;<arg fmt="%s" index="1">pipelined_5stage_</arg>&gt;, final ratio is <arg fmt="%i" index="2">144</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1336" delta="old" > (*) More than 100% of Device resources are used
+</msg>
+
+</messages>
+

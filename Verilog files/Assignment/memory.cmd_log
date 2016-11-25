@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {F:/Assignment draft 3/Assignment/memory.v} -lang verilog -prj Assignment -o memory.spl -module memory -template C:/Xilinx/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 memory.spl {F:/Assignment draft 3/Assignment/memory.sym} 

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/Assignment draft 3/Assignment/To_Test_Jump.xst" -ofn "F:/Assignment draft 3/Assignment/To_Test_Jump.syr" 
+xst -intstyle ise -ifn "F:/Assignment draft 3/Assignment/To_Test_Jump.xst" -ofn "F:/Assignment draft 3/Assignment/To_Test_Jump.syr" 

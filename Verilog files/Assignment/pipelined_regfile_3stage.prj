@@ -1,0 +1,7 @@
+verilog work "regfile.v"
+verilog work "PC.v"
+verilog work "memory.v"
+verilog work "ID_EXEstage.v"
+verilog work "control.v"
+verilog work "alu.v"
+verilog work "5_stage_pineline.v"

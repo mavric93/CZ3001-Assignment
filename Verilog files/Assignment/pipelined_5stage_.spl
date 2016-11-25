@@ -1,0 +1,24 @@
+[Inputs]
+clk
+rst
+fileid
+[Outputs]
+=PCIN[31:0]=
+=PCOUT[31:0]=
+=inst[31:0]=
+=wAddr[4:0]=
+=reg_rdata1[31:0]=
+=alu_operand1[31:0]=
+=alu_operand2[31:0]=
+=alu_result[31:0]=
+=wData2[31:0]=
+=wData1[31:0]=
+=reg_rdata2[31:0]=
+=immData[31:0]=
+=EXE_MEM_alu_result[31:0]=
+=EXE_MEM_rdata2[31:0]=
+=MEM_WB_result[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel pipelined_5stage_
+
